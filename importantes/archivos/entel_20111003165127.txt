@@ -1,0 +1,6 @@
+1;entel;966087405;1500;suc. la florida;01-10-2011
+2;entel;696087405;10000;suc. la florida;01-10-2011
+3;entel;966087405;10000;suc. providencia;01-10-2011
+4;entel;966087405;3000;suc. huechuraba;01-10-2011
+5;entel;966087405;2000;suc. pte. alto;01-10-2011
+6;entel;966087405;3000;suc. pte. alto;01-10-2011

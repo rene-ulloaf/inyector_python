@@ -1,0 +1,5 @@
+1;movistar;666087405;500;suc. pudahuel;01-10-2011
+2;movistar;966087405;3000;suc. stgo;01-10-2011
+3;movistar;696087405;1000;suc. stgo;01-10-2011
+4;movistar;696087405;1000;suc. pte. alto;01-10-2011
+5;movistar;669087405;10000;suc. ñuñoa;01-10-2011

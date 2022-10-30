@@ -1,0 +1,7 @@
+1;claro;966087405;5000;suc. stgo;01-10-2011
+2;claro;966087405;1000;suc. pte. alto;01-10-2011
+3;claro;966087405;1000;suc. renca;01-10-2011
+4;claro;966087405;20000;suc. las condes;01-10-2011
+5;claro;966087405;15000;suc. las condes;01-10-2011
+6;claro;966087405;5000;suc. maipu;01-10-2011
+7;claro;66087405;5000;suc. la florida;01-10-2011
